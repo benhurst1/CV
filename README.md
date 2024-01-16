@@ -1,4 +1,4 @@
-## Your Name
+## Ben Hurst
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -6,8 +6,10 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [GEI Final Project](https://github.com/benhurst1/GEI_final_project) | A dashboard with live data provided by an API | Lambda, API Gateway, AWS |
+| [Predictit](https://github.com/benhurst1/predictit) | An ETL pipeline that pulls data from an API and stores in a data warehouse | ETL, Airflow, S3, Snowflake |
+| [Movie EDA](https://github.com/benhurst1/movie_EDA) | An ETL process to scrape, store and analyse a small movie dataset | concurrency, requests, BeautifulSoup, web scraping, Jupyter Notebooks |
+| [Twitter Clone](https://github.com/benhurst1/chitter-app) | A full stack application to add text posts | Python, flask, sessions |
 
 ## Work Experience
 
