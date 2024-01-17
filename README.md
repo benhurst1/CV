@@ -39,10 +39,10 @@ _Marketing Officer - Videographer / Photographer_
 ## Skills
 
 #### Leadership and Project Management
-I have experience in delegating video projects, providing support where needed and offering feedback. This shows my ability to lead and manage projects effectively, a skill that is vital in software development.
+Led the creation of two podcasts at two previous places of work, [The Bakery](https://open.spotify.com/show/1BE5MDtSnhzx8W2DR3rTho?si=86b47a8cb283453f) and [College of Policing](https://open.spotify.com/show/0iFjSyq9KAzGjuV2b0JnWx?si=2d7f430ddd11426e). This involved strategising the direction of future episodes, planning and setting up interviews, capturing the audio content, editing and distributing them to various platforms. This was an end to end process, where multiple episodes were being planned simultaneously at different stages. I also have experience in delegating video projects, providing support where needed and offering feedback. This shows my ability to lead and manage projects effectively, a skill that is vital in software development.
 
 #### Client Liaison and Interpersonal Skills
-I can communicate with clients to scope projects and am able to speak clearly both technically and non-technically to stakeholders and peers alike. This makes me an effective communicator and understanding of client needs.
+I can communicate with clients to scope projects and am able to speak clearly both technically and non-technically to stakeholders and peers alike. I supported running a live interview with Cressida Dick, former head of the metropolitan police, with a number of technical crew members. During set up I would have to switch quickly between addressing Cressida in a formal but non-technical manner, to peers, colleagues and other members in a non-formal but technical manner. This makes me an effective communicator and understanding of client needs.
 
 #### Creative Background
 Having a creative background can make me a valuable asset in software development. My experience in supporting the launch of a rebrand, creating visual messaging and understanding of graphics and interfaces can transfer well into software.
@@ -52,21 +52,6 @@ Working in marketing has exposed me to creating strategies to response to shifti
 
 #### Problem Solving and Adaptability
 Overcoming challenges in filming environments, such as time constraints, highlights problem-solving skills. In software development, the ability to adapt and find solutions to unexpected issues during the development process is crucial.
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
 
 
 ## Education
@@ -97,6 +82,9 @@ _Photography in Practice_
 - Video games
 - Baking
 - Gym
+- Meetups
+  - MLOps Community
+  - London Software Craftsmanship Community
 - Reading
   - The Pragmatic Programmer by David Thomas and Andrew Hunt
   - Fundamentals of Data Engineering by Joe Reis and Matt Housley
