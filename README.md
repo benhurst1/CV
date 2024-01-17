@@ -1,6 +1,6 @@
 ## Ben Hurst
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Junior Engineer looking for first software engineering role. Recently completed an intensive, full-time 5 month engineering bootcamp working on individual and collaborative software projects. I am passionate about software development and have proactively engaged in self-directed learning, acquiring foundational knowledge in programming languages such as Python/Javascript and familiarising myself with key engineering concepts. My enthusiasm for solving problems, excellent communication skills and my adaptability to new challenges make me a quick learner ready to embrace the technical rigour required in a software engineering team.
 
 ## Projects
 
@@ -13,21 +13,45 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**College of Policing** (Dec 19 to Sep 23)  
+_Content Creative / Videographer_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Demonstrated strong leadership and project management skills by delegating video projects to team members, providing necessary support, and offering constructive feedback for continuous improvement.
+- Proactively liaised with clients to scope their projects, demonstrating strong interpersonal skills and an ability to understand and align technical requirements to produce and launch diverse content tailored to meet client needs.
+- Exhibited proficiency in adapting tone and approach based on project requirements, including handling sensitive and confidential content with discretion. Applied a flexible and empathetic approach to navigate diverse project landscapes, fostering a collaborative and supportive working environment.
+- Played a key role in the successful launch of a company rebrand by creating dynamic motion graphics and video content. Demonstrated proficiency in aligning visual elements with brand messaging for a cohesive and impactful brand image.
+- Led the filming of training material in a custody suite, providing direction to actors and police officers. Overcame challenges such as time constraints, highlighting leadership skills, adaptability, and the ability to navigate complex filming environments.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**The Bakery** (Jan 19 to Sep 19)  
+_Digital Content Creator_
 
-- Any experience relevent to software development
+- Established content production and implemented best practices in both the UK and Brazil locations, showcasing global, cross functional project management.
+- Took the lead in planning, recording, editing, and distributing a podcast on mainstream platforms, demonstrating expertise in the end-to-end production process and effective utilisation of digital platforms.
+- Planned, developed, and maintained social channels and campaigns, leveraging analytics to optimise content for maximum engagement and impact. Demonstrated a data-driven approach to social media strategy.
+
+**Weston College** (Jan 18 to Nov 18)  
+_Marketing Officer - Videographer / Photographer_
+
+- Demonstrated versatility in adapting content for various platforms by producing assets for both print and digital distribution, ranging from prospectuses and banners to websites, social media channels, and large event LED screens.
+- Ensured efficient access and organisation of assets by implementing a management system, streamlining the centralisation of digital assets, including graphics, photos, videos, and brand guidelines.
+- Provided crucial support for live events by leading operations in lighting, sound, and data. Created engaging video content for displays, enhancing the overall event experience through seamless technical execution.
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Leadership and Project Management
+I have experience in delegating video projects, providing support where needed and offering feedback. This shows my ability to lead and manage projects effectively, a skill that is vital in software development.
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Client Liaison and Interpersonal Skills
+I can communicate with clients to scope projects and am able to speak clearly both technically and non-technically to stakeholders and peers alike. This makes me an effective communicator and understanding of client needs.
+
+#### Creative Background
+Having a creative background can make me a valuable asset in software development. My experience in supporting the launch of a rebrand, creating visual messaging and understanding of graphics and interfaces can transfer well into software.
+
+#### Marketing Strategy and Analytics
+Working in marketing has exposed me to creating strategies to response to shifting markets and understanding our audiences, curating content to fit changing needs. I have also leveraged analytics to optimise content for maximum engagement reflecting a data-driven approach.
+
+#### Problem Solving and Adaptability
+Overcoming challenges in filming environments, such as time constraints, highlights problem-solving skills. In software development, the ability to adapt and find solutions to unexpected issues during the development process is crucial.
 
 
 Here's an example
@@ -47,25 +71,32 @@ I honed my communication skills while completing my thesis at university, which 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (Sep 23 to Jan 24)
+- Mastered the fundamentals of Python and Javascript.
+- Proficient in querying relational databases using postgresql, ensuring a solid foundation for data manipulation and retrieval.
+- Spearheaded the creation of a full-stack application with a TDD development approach using Flask, sessions, hashlib, and psycopg2 as part of a collaborative team effort. Employed version control with Git and GitHub, engaging in branching and merging within a shared repository. Successfully hosted the application on Render.
+- Conducted EDA on a cloud-hosted relational database containing Stack Overflow data, employing Pandas dataframes to analyse trends in unanswered posts since launch. Illustrated findings through visually compelling graphs using matplotlib and seaborn demonstrating a keen eye for actionable insights.
+- Established a robust batch processing pipeline using Apache Airflow for efficient data transfer and ETL operations. Applied boto3 and Athena to seamlessly load data into an analytical database, showcasing proficiency in orchestrating end-to-end data workflows using industry technologies.
+- Demonstrated adeptness in infrastructure setup by configuring an EC2 instance on AWS using Terraform. Gained exposure to cutting-edge technologies such as PySpark, Kafka, and crafted interactive dashboards using Voila and Dash.
 
-#### Your University / College (start_date to end_date)
+#### Bath Spa University (Sep 14 to Jun 15)
+_Contemporary Arts and Professional Studies_
+- 1:1 BA Honours
+- Used Python scripts on Raspberry Pi devices to seamlessly display a dynamic mix of video content and processing a live video feed across multiple monitors, showcasing a hands-on approach to technology integration.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Bath Spa University (Sep 12 to Jun 14)
+_Photography in Practice_
+- 1:1 Foundation Degree
+- Designed and built a personal portfolio website using html, css and javascript.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Dog walks
+- Films
+- Board games
+- Video games
+- Baking
+- Gym
+- Reading
+  - The Pragmatic Programmer by David Thomas and Andrew Hunt
+  - Fundamentals of Data Engineering by Joe Reis and Matt Housley
