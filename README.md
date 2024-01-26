@@ -1,40 +1,39 @@
 ## Ben Hurst
 
-Junior Engineer looking for first software engineering role. Recently completed an intensive, full-time 5 month engineering bootcamp working on individual and collaborative software projects. I am passionate about software development and have proactively engaged in self-directed learning, acquiring foundational knowledge in programming languages such as Python/Javascript and familiarising myself with key engineering concepts. My enthusiasm for solving problems, excellent communication skills and my adaptability to new challenges make me a quick learner ready to embrace the technical rigour required in a software engineering team.
+I am passionate about software development and data pipelines and have proactively engaged in self-directed learning, acquiring foundational knowledge in programming languages such as Python/Javascript and familiarising myself with key engineering concepts. My enthusiasm for solving problems, excellent communication skills and my adaptability to new challenges make me a quick learner ready to embrace the technical rigour required in a software engineering team.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [Journal App](https://github.com/benhurst1/journal_app) | A full stack application to add text posts | Python, flask, sessions |
 | [GEI Final Project](https://github.com/benhurst1/GEI_final_project) | A dashboard with live data provided by an API | Lambda, API Gateway, AWS |
 | [Predictit](https://github.com/benhurst1/predictit) | An ETL pipeline that pulls data from an API and stores in a data warehouse | ETL, Airflow, S3, Snowflake |
 | [Movie EDA](https://github.com/benhurst1/movie_EDA) | An ETL process to scrape, store and analyse a small movie dataset | concurrency, requests, BeautifulSoup, web scraping, Jupyter Notebooks |
-| [Twitter Clone](https://github.com/benhurst1/chitter-app) | A full stack application to add text posts | Python, flask, sessions |
 
 ## Work Experience
 
 **College of Policing** (Dec 19 to Sep 23)  
 _Content Creative / Videographer_
 
-- Demonstrated strong leadership and project management skills by delegating video projects to team members, providing necessary support, and offering constructive feedback for continuous improvement.
-- Proactively liaised with clients to scope their projects, demonstrating strong interpersonal skills and an ability to understand and align technical requirements to produce and launch diverse content tailored to meet client needs.
-- Exhibited proficiency in adapting tone and approach based on project requirements, including handling sensitive and confidential content with discretion. Applied a flexible and empathetic approach to navigate diverse project landscapes, fostering a collaborative and supportive working environment.
-- Played a key role in the successful launch of a company rebrand by creating dynamic motion graphics and video content. Demonstrated proficiency in aligning visual elements with brand messaging for a cohesive and impactful brand image.
-- Led the filming of training material in a custody suite, providing direction to actors and police officers. Overcame challenges such as time constraints, highlighting leadership skills, adaptability, and the ability to navigate complex filming environments.
+- Optimised video workflows by delegating video projects to team members, providing necessary support, offering constructive feedback for continuous improvement. This approach boosted efficiency, accelerating production for distribution.
+- [Led the inception of a podcast](https://open.spotify.com/show/0iFjSyq9KAzGjuV2b0JnWx), overseeing strategic planning, production and distributing content. This platform introduced a fresh perspective to audience engagement, utilising a new format for increased connection. It was a well praised initiative internally and externally across the policing landscape.
+- Collaborated with clients to scope their projects, engaging with the immersive learning department to direct filming of training material within a state-of-the-art custody suite. This was to address the heightened demand for training, particularly [vulnerabilities in custody](https://www.policeconduct.gov.uk/learning-lessons-42-custody#article3).
+- Instrumental in the successful [launch of a company rebrand](https://www.youtube.com/watch?v=9fPBt3VGROs), creating dynamic motion graphics and video content. Showcased expertise in aligning visual elements with brand messaging for a cohesive and impactful brand image. The video was played across multiple policing centres, websites and social media. This effort was coordinated with the launch of a new website and aiming to bolster trust in policing during a challenging period.
 
 **The Bakery** (Jan 19 to Sep 19)  
 _Digital Content Creator_
 
-- Established content production and implemented best practices in both the UK and Brazil locations, showcasing global, cross functional project management.
-- Took the lead in planning, recording, editing, and distributing a podcast on mainstream platforms, demonstrating expertise in the end-to-end production process and effective utilisation of digital platforms.
-- Planned, developed, and maintained social channels and campaigns, leveraging analytics to optimise content for maximum engagement and impact. Demonstrated a data-driven approach to social media strategy.
+- Established content production and implemented best practices in both the UK and Brazil locations, to support outreach for new clients and maintain partnerships with existing ones.
+- Demonstrated expertise in the end-to-end production process and effective use of digital platforms by leading the planning, recording, editing, and distribution of a [podcast](https://open.spotify.com/show/1BE5MDtSnhzx8W2DR3rTho) on mainstream platforms This served as a fresh platform to engage and share a new format of content.
+- Planned, developed, and maintained social channels and campaigns, optimising digital content for maximum impact and engagement by using analytics, demonstrating a data-driven approach. This attracted new clients and maintained engagement with existing ones.
 
 **Weston College** (Jan 18 to Nov 18)  
 _Marketing Officer - Videographer / Photographer_
 
-- Demonstrated versatility in adapting content for various platforms by producing assets for both print and digital distribution, ranging from prospectuses and banners to websites, social media channels, and large event LED screens.
-- Ensured efficient access and organisation of assets by implementing a management system, streamlining the centralisation of digital assets, including graphics, photos, videos, and brand guidelines.
-- Provided crucial support for live events by leading operations in lighting, sound, and data. Created engaging video content for displays, enhancing the overall event experience through seamless technical execution.
+- Demonstrated versatility in adapting content for various platforms by producing assets for both print and digital distribution, ranging from prospectuses and banners to websites, social media channels, and large event LED screens. This widespread exposure, both locally and across the south-west UK, ensured up-to-date and widely viewed materials.
+- Implemented a management system to streamline access to assets, including graphics, photos, videos, and brand guidelines. This eased and simplified access to assets company wide.
+- Provided crucial support for [live events](https://www.youtube.com/watch?v=59tYPHEVr18) by leading operations in lighting, sound, and data. Created engaging video content for displays, enhancing the overall event experience through seamless technical execution.
 
 ## Skills
 
