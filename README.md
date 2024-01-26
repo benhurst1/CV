@@ -21,7 +21,7 @@ _Content Creative / Videographer_
 - Collaborated with clients to scope their projects, engaging with the immersive learning department to direct filming of training material within a state-of-the-art custody suite. This was to address the heightened demand for training, particularly [vulnerabilities in custody](https://www.policeconduct.gov.uk/learning-lessons-42-custody#article3).
 - Instrumental in the successful [launch of a company rebrand](https://www.youtube.com/watch?v=9fPBt3VGROs), creating dynamic motion graphics and video content. Showcased expertise in aligning visual elements with brand messaging for a cohesive and impactful brand image. The video was played across multiple policing centres, websites and social media. This effort was coordinated with the launch of a new website and aiming to bolster trust in policing during a challenging period.
 
-**The Bakery** (Jan 19 to Sep 19)  
+**The Bakery** (Jan 19 to Dec 19)  
 _Digital Content Creator_
 
 - Established content production and implemented best practices in both the UK and Brazil locations, to support outreach for new clients and maintain partnerships with existing ones.
