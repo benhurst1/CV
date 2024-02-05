@@ -1,6 +1,6 @@
 ## Ben Hurst
 
-I am passionate about software development and data pipelines and have proactively engaged in self-directed learning, acquiring foundational knowledge in programming languages such as Python/Javascript and familiarising myself with key engineering concepts. My enthusiasm for solving problems, excellent communication skills and my adaptability to new challenges make me a quick learner ready to embrace the technical rigour required in a software engineering team.
+I am passionate about software development and data engineering and have proactively engaged in both self-directed learning and a bootcamp, acquiring foundational knowledge in programming languages such as Python and Javascript familiarising myself with key engineering concepts. My excellent history collaborating and communicating in teams, enthusiasm for solving problems and curiosity to new technologies and challenges make me a quick learner ready to embrace the technical rigour required in a software engineering team.
 
 ## Projects
 
@@ -19,20 +19,20 @@ _Content Creative / Videographer_
 - Optimised video workflows by delegating video projects to team members, providing necessary support, offering constructive feedback for continuous improvement. This approach boosted efficiency, accelerating production for distribution.
 - [Led the inception of a podcast](https://open.spotify.com/show/0iFjSyq9KAzGjuV2b0JnWx), overseeing strategic planning, production and distributing content. This platform introduced a fresh perspective to audience engagement, utilising a new format for increased connection. It was a well praised initiative internally and externally across the policing landscape.
 - Collaborated with clients to scope their projects, engaging with the immersive learning department to direct filming of training material within a state-of-the-art custody suite. This was to address the heightened demand for training, particularly [vulnerabilities in custody](https://www.policeconduct.gov.uk/learning-lessons-42-custody#article3).
-- Instrumental in the successful [launch of a company rebrand](https://www.youtube.com/watch?v=9fPBt3VGROs), creating dynamic motion graphics and video content. Showcased expertise in aligning visual elements with brand messaging for a cohesive and impactful brand image. The video was played across multiple policing centres, websites and social media. This effort was coordinated with the launch of a new website and aiming to bolster trust in policing during a challenging period.
+- Instrumental in the successful [launch of a company rebrand](https://www.youtube.com/watch?v=9fPBt3VGROs), creating dynamic motion graphics and video content. Aligned video content with brand messaging for a cohesive and impactful image. The video was played across multiple policing centres, websites and social media. This effort was coordinated with the launch of a new website and aimed to bolster trust in policing during a challenging period.
 
 **The Bakery** (Jan 19 to Dec 19)  
 _Digital Content Creator_
 
 - Established content production and implemented best practices in both the UK and Brazil locations, to support outreach for new clients and maintain partnerships with existing ones.
 - Demonstrated expertise in the end-to-end production process and effective use of digital platforms by leading the planning, recording, editing, and distribution of a [podcast](https://open.spotify.com/show/1BE5MDtSnhzx8W2DR3rTho) on mainstream platforms This served as a fresh platform to engage and share a new format of content.
-- Planned, developed, and maintained social channels and campaigns, optimising digital content for maximum impact and engagement by using analytics, demonstrating a data-driven approach. This attracted new clients and maintained engagement with existing ones.
+- Planned, developed, and maintained social channels and campaigns, optimising digital content for maximum impact and engagement by using analytics, demonstrating a data-driven approach.
 
 **Weston College** (Jan 18 to Nov 18)  
 _Marketing Officer - Videographer / Photographer_
 
-- Demonstrated versatility in adapting content for various platforms by producing assets for both print and digital distribution, ranging from prospectuses and banners to websites, social media channels, and large event LED screens. This widespread exposure, both locally and across the south-west UK, ensured up-to-date and widely viewed materials.
-- Implemented a management system to streamline access to assets, including graphics, photos, videos, and brand guidelines. This eased and simplified access to assets company wide.
+- Produced assets for both print and digital distribution, ranging from prospectuses and banners to websites, social media channels, and large event LED screens. This widespread exposure, both locally and across the south-west UK, ensured up-to-date and widely viewed materials.
+- Implemented a management system to streamline access to assets, including graphics, photos, videos, and brand guidelines. Used a python script to optimise uploading content to database. This eased and simplified access to assets company wide.
 - Provided crucial support for [live events](https://www.youtube.com/watch?v=59tYPHEVr18) by leading operations in lighting, sound, and data. Created engaging video content for displays, enhancing the overall event experience through seamless technical execution.
 
 ## Skills
@@ -56,12 +56,12 @@ Overcoming challenges in filming environments, such as time constraints, highlig
 ## Education
 
 #### Makers Academy (Sep 23 to Jan 24)
-- Mastered the fundamentals of Python and Javascript.
-- Proficient in querying relational databases using postgresql, ensuring a solid foundation for data manipulation and retrieval.
-- Spearheaded the creation of a full-stack application with a TDD development approach using Flask, sessions, hashlib, and psycopg2 as part of a collaborative team effort. Employed version control with Git and GitHub, engaging in branching and merging within a shared repository. Successfully hosted the application on Render.
-- Conducted EDA on a cloud-hosted relational database containing Stack Overflow data, employing Pandas dataframes to analyse trends in unanswered posts since launch. Illustrated findings through visually compelling graphs using matplotlib and seaborn demonstrating a keen eye for actionable insights.
-- Established a robust batch processing pipeline using Apache Airflow for efficient data transfer and ETL operations. Applied boto3 and Athena to seamlessly load data into an analytical database, showcasing proficiency in orchestrating end-to-end data workflows using industry technologies.
-- Demonstrated adeptness in infrastructure setup by configuring an EC2 instance on AWS using Terraform. Gained exposure to cutting-edge technologies such as PySpark, Kafka, and crafted interactive dashboards using Voila and Dash.
+- Mastered the fundamentals of  Python, functional and object-oriented programming, test-driven development, pair programming and debugging.
+- Led creation of a full-stack application using agile methodology. We used Flask, hashlib, and psycopg2 with version control, Git and GitHub as part of a collaborative team effort.
+- Conducted exploratory data analysis on a cloud-hosted relational database containing Stack Overflow data. I used Pandas dataframes and discovered an upwards trend of unanswered posts since launch. Illustrated findings through visually compelling graphs using matplotlib and seaborn demonstrating a keen eye for actionable insights.
+- Established a robust batch processing pipeline using Apache Airflow for efficient data transfer and ETL operations. Applied boto3 and Athena to seamlessly load data into an analytical database.
+- Used Terraform to setup and configure an EC2 instance on AWS. Gained exposure to cutting-edge technologies such as PySpark, Kafka, and crafted interactive dashboards using Voila and Dash.
+- Learned the fundamentals of machine learning with SciKit-Learn and StatsModels, using simple and multiple linear regression, time series. I understand the principles of training, test and validation sets to train a model.
 
 #### Bath Spa University (Sep 14 to Jun 15)
 _Contemporary Arts and Professional Studies_
@@ -81,9 +81,15 @@ _Photography in Practice_
 - Video games
 - Baking
 - Gym
-- Meetups
-  - MLOps Community
-  - London Software Craftsmanship Community
+- Cycling
+- Dungeons and dragons
+- Theatre
 - Reading
   - The Pragmatic Programmer by David Thomas and Andrew Hunt
   - Fundamentals of Data Engineering by Joe Reis and Matt Housley
+- Meetups
+  - MLOps Community
+  - London Software Craftsmanship Community
+  - Chingu
+  - LondonJS
+  
