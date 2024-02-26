@@ -1,6 +1,6 @@
 ## Ben Hurst
 
-I am passionate about software development and data engineering and have proactively engaged in both self-directed learning and a bootcamp, acquiring foundational knowledge in programming languages such as Python and Javascript familiarising myself with key engineering concepts. My excellent history collaborating and communicating in teams, enthusiasm for solving problems and curiosity to new technologies and challenges make me a quick learner ready to embrace the technical rigour required in a software engineering team.
+Having recently completed an intensive five-month software engineering bootcamp, I've significantly expanded my proficiency in Python, Javascript, Tailwind, React and Next.JS as well as TDD and CI/CD principles. I used these to build full stack applications with my peers using industry standard methodologies and practices such as Agile, Scrum, version control and designing using wireframes, flow charts and entity relationship diagrams.
 
 ## Projects
 
@@ -12,6 +12,11 @@ I am passionate about software development and data engineering and have proacti
 | [Movie EDA](https://github.com/benhurst1/movie_EDA) | An ETL process to scrape, store and analyse a small movie dataset | concurrency, requests, BeautifulSoup, web scraping, Jupyter Notebooks |
 
 ## Work Experience
+
+**MY CWA** (Feb 24 to Present)
+_Web Developer_
+- Wireframed, designed, and delivered a new site purpose built to buy training packages and open new revenue streams.
+- Audited and redeveloped the current website to improve UX, removed outdated features and linked to the new site.
 
 **College of Policing** (Dec 19 to Sep 23)  
 _Content Creative / Videographer_
