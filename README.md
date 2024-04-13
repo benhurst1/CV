@@ -6,6 +6,7 @@ Having recently completed an intensive five-month software engineering bootcamp,
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [River Levels](https://github.com/benhurst1/river-levels) | View River Levels and flood warnings across the UK | React, Next.JS, Mongodb |
 | [Journal App](https://github.com/benhurst1/journal_app) | A full stack application to add text posts | Python, flask, sessions |
 | [GEI Final Project](https://github.com/benhurst1/GEI_final_project) | A dashboard with live data provided by an API | Lambda, API Gateway, AWS |
 | [Predictit](https://github.com/benhurst1/predictit) | An ETL pipeline that pulls data from an API and stores in a data warehouse | ETL, Airflow, S3, Snowflake |
@@ -13,10 +14,27 @@ Having recently completed an intensive five-month software engineering bootcamp,
 
 ## Work Experience
 
+**Pioneer Clothing** (Mar 24 to Present)
+_Web Developer_
+
+- Leading development of an ecommerce site, preparing to launch a new line of clothing products.
+- Collaborating with logistics for optimised stock and delivery management.
+
+
 **MY CWA** (Feb 24 to Present)
 _Web Developer_
-- Wireframed, designed, and delivered a new site purpose built to buy training packages and open new revenue streams.
-- Audited and redeveloped the current website to improve UX, removed outdated features and linked to the new site.
+
+- Designing and delivering a new website tailored for purchasing training packages and expanding revenue streams.
+- Conducting an audit and revamping the existing website to enhance user experience, eliminate obsolete features, and integrate it with the new site.
+- Automating time-consuming and repetitive tasks to optimise workflows.
+
+
+**Day Off** (Mar 24 to Mar 24)
+_Full Stack Engineer Internship_
+
+- Leading integration of a React Native application with a Python FastAPI server to create a fully functional MVP poised for investor funding.
+- Responsible for streamlining deployment by implementing a CI/CD workflow utilising AWS lambda.
+
 
 **College of Policing** (Dec 19 to Sep 23)  
 _Content Creative / Videographer_
